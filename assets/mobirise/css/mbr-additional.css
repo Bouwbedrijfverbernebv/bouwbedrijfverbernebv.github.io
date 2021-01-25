@@ -1548,24 +1548,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sn303TPLpj {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sn303TPLpj .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sn303TPLpj img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sn303TPLpj .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-sn2YV3RgvM {
   background-image: url("../../../assets/images/2020-04-30-19.06.16-2000x1500.jpeg");
 }
