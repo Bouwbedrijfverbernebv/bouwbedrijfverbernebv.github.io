@@ -11325,21 +11325,3 @@ a {
     left: -1rem;
   }
 }
-.cid-sogDf3Ae2v {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sogDf3Ae2v .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sogDf3Ae2v img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sogDf3Ae2v .text-wrapper {
-    padding: 2rem;
-  }
-}
